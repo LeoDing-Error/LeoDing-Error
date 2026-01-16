@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Leo!
 
 👩🏻‍💻 Software Engineer & Masters Student working towards a Phd<br/>
-🎓 Studying Computer Science at [Laney Graduate School](https://gs.emory.edu)  
+🎓 Studying Computer Science at [Emory University](https://gs.emory.edu)  
 ☁️ Working on cloud-deployed ML applications and scalable backend systems  
 💭 Currently learning about **MLOps and [distributed AI systems](https://www.dair-institute.org/projects/)**  
 
