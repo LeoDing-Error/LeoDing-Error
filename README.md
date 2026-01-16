@@ -3,7 +3,7 @@
 👩🏻‍💻 Software Engineer & Masters Student working towards a Phd<br/>
 🎓 Studying Computer Science at [Emory University](https://gs.emory.edu)  
 ☁️ Working on cloud-deployed ML applications and scalable backend systems  
-💭 Currently learning about **MLOps and [distributed AI systems](https://www.dair-institute.org/projects/)**  
+💭 Currently learning about MLOps and [distributed AI systems](https://www.dair-institute.org/projects/)  
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
