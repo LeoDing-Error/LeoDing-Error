@@ -5,8 +5,7 @@
 ☁️ Working on cloud-deployed ML applications and scalable backend systems  
 💭 Currently learning about MLOps and [distributed AI systems](https://www.dair-institute.org/projects/)  
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
